@@ -1,1 +1,1 @@
-document.write("This is the initial file content.");
+document.write("This is the updated file content. This file is really long so it should cause scrolling in the diff, since it is so long that it shouldn't be able to fit on any reasonably sized monitor unless you make the text size really small, but if you did that how would you read it? It might fit if you have a really big monitor but then you'd have to move your head around to read the whole thing, so that doesn't seem very practical.");
